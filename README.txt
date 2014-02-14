@@ -11,7 +11,7 @@ file. The front-end of the game board stores its images in FF\notbin\data\rounds
 for surveys and all other graphics in FF\notbin\data\gfx. Copy the contents of notbin to 
 FF\bin\<build type> in order to run.
 
-Sounds are located in FF\bin\Debug\data\sounds. They're recorded in Microsoft WAV format.
+Sounds are located in FF\notbin\data\sounds. They're recorded in Microsoft WAV format.
 Some sounds used are from the Freesound project, others are ones I recorded myself.
 
 As always, this is licensed under The Pirate License; see LICENSE.txt for more details.
